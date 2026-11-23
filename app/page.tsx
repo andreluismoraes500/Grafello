@@ -74,7 +74,7 @@ export default async function Home() {
 
           {/* Botão Orçamento */}
           <a
-            href=""
+            href="https://wa.me/5519989519186"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#ff007f] text-white px-5 py-2 md:px-6 md:py-2.5 rounded-full font-bold text-xs md:text-sm hover:bg-[#00e5ff] hover:text-black transition-all duration-300 shadow-[0_0_15px_rgba(255,0,127,0.6)] hover:shadow-[0_0_20px_rgba(0,229,255,0.8)]"
@@ -257,12 +257,12 @@ export default async function Home() {
 
             <div className="flex flex-col items-center md:items-end">
               <a
-                href=""
+                href="https://wa.me/5519989519186"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-linear-to-r from-[#00e5ff] to-[#ff007f] hover:scale-105 transition-transform"
               >
-                Telefone:
+                Telefone: (19) 9 9851-9186
               </a>
               <span className="text-sm text-gray-500 mt-2">
                 Atendimento de Seg a Sex, das 8h às 18h
