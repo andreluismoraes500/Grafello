@@ -277,7 +277,7 @@ export default async function Home() {
             <p className="text-xs text-gray-600 mt-2">
               Desenvolvido por{" "}
               <a
-                href="andreluisdemoraes.com.br"
+                href="https://andreluismoraes.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-500 hover:underline"
