@@ -262,7 +262,7 @@ export default async function Home() {
                 rel="noopener noreferrer"
                 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-linear-to-r from-[#00e5ff] to-[#ff007f] hover:scale-105 transition-transform"
               >
-                Telefone: (19) 9 9851-9186
+                Telefone: (19) 9 98951-9186
               </a>
               <span className="text-sm text-gray-500 mt-2">
                 Atendimento de Seg a Sex, das 8h às 18h
